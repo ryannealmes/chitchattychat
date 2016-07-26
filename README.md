@@ -1,6 +1,6 @@
 # chitchattychat
 
-A chat prototype is composed of four projects:
+A chat prototype composed of four projects:
 
 * [The native apps for IOS and Android](../../../chitchattychat-app)
 * [The web client](../../../chitchattychat-web-client)
@@ -39,7 +39,7 @@ Clone all the above repos into a root chat folder and navigate to that chat fold
 
 3. Web client
   edit: add how to buid with webpack and add that only copy index.html, css and js files
-  Change apiurl and socketurl in index.html to those corresponding to heroku apps (the url's can be retrieved by navigating to the project folder and typing 'heroku info')
+  Change apiurl and socketurl in index.html to those corresponding to heroku apps
   deployed to a static hosting provider such as s3: http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 
 4. React native
@@ -48,4 +48,4 @@ Clone all the above repos into a root chat folder and navigate to that chat fold
 
 ## Local setup
 
-I will flesh this out in time but for now a good start would be to install redis and mongodb and start them (this should probably get you most of the way there)
+I will flesh this out in time but for now a good start would be to install redis and mongodb and get the demons running (this will get you hald the way there)
