@@ -2,7 +2,7 @@
 
 A chat prototype composed of four projects:
 
-* [The native apps for IOS and Android](../../../chitchattychat-app)
+* [The apps for IOS and Android written in react native](../../../chitchattychat-app)
 * [The web client](../../../chitchattychat-web-client)
 * [The realtime server](../../../chitchattychat-realtime)
 * [The api](../../../chitchattychat-api)
