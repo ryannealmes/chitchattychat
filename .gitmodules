@@ -1,0 +1,12 @@
+[submodule "chitchattychat-app"]
+	path = chitchattychat-app
+	url = https://github.com/Ryanthegiantlion/chitchattychat-app.git
+[submodule "chitchattychat-web-client"]
+	path = chitchattychat-web-client
+	url = https://github.com/Ryanthegiantlion/chitchattychat-web-client.git
+[submodule "chitchattychat-realtime"]
+	path = chitchattychat-realtime
+	url = https://github.com/Ryanthegiantlion/chitchattychat-realtime.git
+[submodule "chitchattychat-api"]
+	path = chitchattychat-api
+	url = https://github.com/Ryanthegiantlion/chitchattychat-api.git
